@@ -1,0 +1,15 @@
+{
+  "name": "rest-note",
+  "version": "1.0.0",
+  "description": "A rest service for notes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bernd Strehl",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^6.3.4"
+  }
+}
